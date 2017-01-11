@@ -1,0 +1,13 @@
+{
+  "presets": [
+    "react",
+    "latest",
+    "stage-0"
+  ],
+  "env": {
+    "start": {
+      "presets": [
+      ]
+    }
+  }
+}

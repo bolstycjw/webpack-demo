@@ -1,0 +1,18 @@
+{
+  "loadEagerly": [
+    "app/**/*.js"
+  ],
+  "plugins": {
+    "es_modules": {},
+    "node": {},
+    "node_resolve": {},
+    "commonjs": {},
+    "webpack": {}
+  },
+  "libs": [
+    "ecma5",
+    "ecma6",
+    "browser"
+  ],
+  "ecmaVersion": 6
+}
